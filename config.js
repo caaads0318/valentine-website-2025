@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you and I'm gonna marry you! 🤍"           // Secret hover message
+            secretAnswer: "I don't like you, I love you so much! 🤍"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "I love you so much forever and ever always 🤍🤣🥰",  // Shows when they go past 5000%
+        extreme: "I love you so much forever and ever always. I'm gonna marry you 🤍🤣🥰",  // Shows when they go past 5000%
         high: "I love you so much! 🤍🥰",              // Shows when they go past 1000%
         normal: "I love you! 🥰"                           // Shows when they go past 100%
     },
@@ -50,8 +50,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! See you soon, my love! 🤍",
-        message: "I love you so much forever and ever always!",
-        emojis: "🤍🥰🥹🤗😚👭🏻"  // These will bounce around
+        message: "Ito ang gift mo 🥹🤍",
+        emojis: "🤍🥰🤗😚🤘🏻👅"  // These will bounce around
     },
 
     // Color scheme for the website
